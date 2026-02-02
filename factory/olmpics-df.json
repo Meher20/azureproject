@@ -1,0 +1,9 @@
+{
+	"name": "olmpics-df",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f4db1c75-adf1-403e-b653-3346559b15ec",
+		"tenantId": "446bee0f-94a8-4b69-b24e-bfbb803abb8e"
+	}
+}

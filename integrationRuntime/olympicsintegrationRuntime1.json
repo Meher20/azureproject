@@ -1,0 +1,6 @@
+{
+	"name": "olympicsintegrationRuntime1",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
