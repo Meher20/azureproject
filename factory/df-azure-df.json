@@ -1,0 +1,9 @@
+{
+	"name": "df-azure-df",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bf4cd46f-c30e-40fe-9c99-a7c5b4d9dbec",
+		"tenantId": "446bee0f-94a8-4b69-b24e-bfbb803abb8e"
+	}
+}
